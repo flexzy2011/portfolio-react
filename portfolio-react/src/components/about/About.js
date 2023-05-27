@@ -23,25 +23,26 @@ const About = () => {
             <article className='about__card'>
               <GoDeviceDesktop className='about__icon' />
               <h5>Coding</h5>
-              <small>6+ Months Learning</small>
+              <small>10+ Months Learning</small>
             </article>
 
             <article className='about__card'>
               <AiOutlineSafetyCertificate className='about__icon' />
               <h5>Certificates</h5>
-              <small>1+ Certificates</small>
+              <small>2+ Certificates</small>
             </article>
 
             <article className='about__card'>
               <GiStarFormation className='about__icon' />
               <h5>Projects</h5>
-              <small>20+ Completed</small>
+              <small>39+ Completed</small>
             </article>
           </div>
 
           <p>
-            Hi! My name is Felix Akinloye. I am a Gomycode alumnus for Introduction to Web
-            Development. I have deep interest in Web Development and Programming; My framework is Reactjs.
+            Hi! My name is Felix Akinloye, I am a Frontend Developer with great technical and problem-solving skills.
+            Graduated from GOMYCODE NIGERIA, ready to acquire real world experience with my skills..
+            My framework is React.js
           </p>
 
           <a href='#contact' className='btn talk-btn'>Let's Talk</a>

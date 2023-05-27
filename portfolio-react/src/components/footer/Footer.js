@@ -24,10 +24,10 @@ const Footer = () => {
       </div>
 
       <div className='footer__copyright'>
-        <small>&copy; All rights are reserved.</small>
+        <small>&copy; Flexzy 2023.</small>
       </div>
     </footer>
   )
 } 
 
-export default Footer
+export default Footer;
