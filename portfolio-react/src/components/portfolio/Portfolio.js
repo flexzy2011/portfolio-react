@@ -29,7 +29,7 @@ const Portfolio = () => {
           <h3>Todo App</h3>
           <div className='portfolio__item-cta'>
             <a href='https://github.com/flexzy2011/todo-redux-checkpoint.git' className='btn btn-secondary' target='_blank'>Github</a>
-            <a href='https://https://spectacular-caramel-c9392e.netlify.app/' className='btn btn-secondary' target='_blank'>Live Demo</a>
+            <a href='https://spectacular-caramel-c9392e.netlify.app/' className='btn btn-secondary' target='_blank'>Live Demo</a>
           </div>
         </article>
 
@@ -40,7 +40,7 @@ const Portfolio = () => {
           <h3>Movie App</h3>
           <div className='portfolio__item-cta'>
             <a href='https://github.com/flexzy2011/movie-app-router.git' className='btn btn-secondary' target='_blank'>Github</a>
-            <a href='https://https://gregarious-hamster-66ed85.netlify.app/' className='btn btn-secondary' target='_blank'>Live Demo</a>
+            <a href='https://gregarious-hamster-66ed85.netlify.app/' className='btn btn-secondary' target='_blank'>Live Demo</a>
           </div>
         </article>
       </div>
